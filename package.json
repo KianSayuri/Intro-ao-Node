@@ -1,0 +1,20 @@
+{
+  "name": "intro-ao-node",
+  "version": "1.0.0",
+  "description": "Introdução ao NodeJS e Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KianSayuri/Intro-ao-Node.git"
+  },
+  "keywords": ["NodeJS","Introdução"],
+  "author": "KianSayuri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KianSayuri/Intro-ao-Node/issues"
+  },
+  "homepage": "https://github.com/KianSayuri/Intro-ao-Node#readme"
+}
