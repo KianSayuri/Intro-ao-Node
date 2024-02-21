@@ -11,11 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/KianSayuri/Intro-ao-Node.git"
   },
-  "keywords": ["NodeJS","Introdução"],
+  "keywords": [
+    "NodeJS",
+    "Introdução"
+  ],
   "author": "KianSayuri",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/KianSayuri/Intro-ao-Node/issues"
   },
-  "homepage": "https://github.com/KianSayuri/Intro-ao-Node#readme"
+  "homepage": "https://github.com/KianSayuri/Intro-ao-Node#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
